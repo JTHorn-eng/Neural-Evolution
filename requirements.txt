@@ -1,0 +1,5 @@
+numpy == 1.26.1
+gymnasium == 0.29.1
+matplotlib == 3.7.1
+plotly == 5.20.0
+pandas == 1.5.3
